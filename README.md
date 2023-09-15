@@ -31,6 +31,6 @@
 
 <!-- 统计-->
 <div>
-  <img float:"left" height="170px" src="https://github-readme-stats.vercel.app/api?username=hwangshifuu"/>
-  <img float:"right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangshifuu&layout=compact&langs_count=8" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=hwangshifuu"/>
+  <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangshifuu&layout=compact&langs_count=8" />
 </div>
