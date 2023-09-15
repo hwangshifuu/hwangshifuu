@@ -17,7 +17,7 @@
 <tr><td>
 
 <!-- About me 关于我 -->
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hwangshifuu/hwangshifuu/assets/images/steven.png" />
+<img align="right" width="88" src=".github/assets/images/steven.png" />
 
 <p>&emsp;&emsp;愿半生编程，如一生好友。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
