@@ -13,9 +13,6 @@
 
 # About Me 🙋
 
-<table>
-<tr><td>
-
 <!-- About me 关于我 -->
 <img align="right" width="88" src=".github/assets/images/steven.png" />
 
@@ -31,6 +28,6 @@
 
 <!-- 统计-->
 <div>
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=hwangshifuu"/>
-  <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangshifuu&layout=compact&langs_count=8" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=hwangshifuu"/>
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangshifuu&layout=compact&langs_count=8" />
 </div>
