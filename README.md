@@ -15,11 +15,17 @@
 - 🍒 A post-90s person who loves software development.
 - 📍 杭州(HZ).
 - 👩‍💻 4 years of work.
-  <br/>
-  <br/>
+ <br/>
+ <br/>
+
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hwangshifuu/hwangshifuu/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hwangshifuu/hwangshifuu/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/hwangshifuu/hwangshifuu/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <div align="center"><img src="![](https://raw.githubusercontent.com/hwangshifuu/hwangshifuu/main/assets/github-contribution-grid-snake.svg)" ></div>
 </picture>
+ <br/>
+ <br/>
+<!-- 统计-->
+<div align="center">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=hwangshifuu" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangshifuu&layout=compact&langs_count=8" />
+</div>
