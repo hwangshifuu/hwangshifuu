@@ -18,7 +18,9 @@
   <br/>
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
- <div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hwangshifuu/hwangshifuu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hwangshifuu/hwangshifuu/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/hwangshifuu/hwangshifuu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 # About My Github
