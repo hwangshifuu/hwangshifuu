@@ -18,7 +18,6 @@
  <br/>
  <br/>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <div align="center"><img src="![](https://raw.githubusercontent.com/hwangshifuu/hwangshifuu/main/assets/github-contribution-grid-snake.svg)" ></div>
 </picture>
